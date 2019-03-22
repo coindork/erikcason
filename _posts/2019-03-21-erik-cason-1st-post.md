@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Erik Cason, Human, 1"
+title: "1st post: What the hell is this?"
 date: 2019-03-21
 ---
 
